@@ -174,39 +174,30 @@ Comparison with Initial Findings
 None was found
 
 DATA VISUALIZATIONS & CHARTS
+
 ![image](https://github.com/user-attachments/assets/a79deaec-7ffd-4d1f-a4e6-dd11619db4cb)
-
-
 Our top performing sales reps are David, followed by Bob, and Alice
+
 ![image](https://github.com/user-attachments/assets/eec3b251-9501-4105-b85b-755a857262ea)
-
 Our top region of sales for the year is the North region, and the East region is pretty close
-![image](https://github.com/user-attachments/assets/4f2c1803-f0d3-420a-b877-96eb130328ab)
 
+![image](https://github.com/user-attachments/assets/4f2c1803-f0d3-420a-b877-96eb130328ab)
 Most of our products gained more profitable sales through the retail channel rather than the online channel.
+
 RECOMMENDATIONS AND OBSERVATIONS
 
 Actionable Insights
-
 1. I recommend that David, assisted by Alice, should be made the Sales Team Lead and Assistant, respectively. To instill the values of dedication and key strategies in other sales Rep
-
 2. Promo bargains may be implemented on other products to improve customer awareness about other products in regions where they performed the least
-
 3. Advertisement to Customers to access Online Sales will also be Profitable for the year 2024
-
 4. The Suppliers of products to Syntax are recommended for further business bargains to continually attain a low unit cost of materials purchased for resale.
-
 5. I recommend a management meeting with the sales team to discuss the rapid drop in profit in December 2023.
-
 6. A Customer care representative should be employed to engage for customer feedback to retain both New and Returning Customers for the year 2024
 
 Optimizations or Business Decisions
 ● Implement sales techniques from top performers like David and train underperformers like Charlie
-
 ● Allocate more marketing resources to the South region to close the sales performance gap.
-
 ● Expand electronics promotions and monitor sales trends to prevent profit depletion.
-
 ● Develop tiered pricing strategies, such as discounts for online purchases.
 
 Unexpected Outcomes
